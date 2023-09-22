@@ -17,3 +17,8 @@ Profiles: Multiple user profiles can be created under a single account, each wit
 Responsive Design: The clone should be responsive to various screen sizes, including mobile devices, tablets, and desktops.
 
 A Netflix clone is often used as a project for learning web development, front-end and back-end technologies, and database management. While it can replicate the visual aspect of Netflix, it usually lacks the extensive content library, licensing agreements, and infrastructure required for actual streaming services.
+
+
+
+![image](https://github.com/Chiru0803/Netflix-clone/assets/100474649/f9d519f3-2dfb-474d-9797-bfd795c29307)
+
